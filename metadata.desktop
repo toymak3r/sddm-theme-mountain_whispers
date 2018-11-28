@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=MountainWhispers
+Description=Theme for SDDM based on Chili
+Author=Edward Facundo
+Copyright=(c) 2018, Edward Facundo
+Email=toymak3r@gmail.com
+License=GPLv3
+Type=sddm-theme
+Version=0.1.4
+Website=https://github.com/toymak3r/sddm-theme-mountain_whispers
+Screenshot=preview.jpg
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=mountain_whispers
+Theme-API=2.0
